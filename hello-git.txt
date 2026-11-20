@@ -3,3 +3,6 @@ My First Git Repo
 
 # Edit Below this Line
 # --------------------
+
+
+new changes directly made on github
