@@ -8,3 +8,4 @@ My First Git Repo
 new changes directly made on github
 Feature branch update
 log-demo: line 2
+stash-demo: uncommitted change
